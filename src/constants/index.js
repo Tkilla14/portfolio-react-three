@@ -222,7 +222,7 @@ const projects = [
       },
     ],
     image: ape,
-    source_code_link: "https://github.com/Tkilla14",
+    source_code_link: "",
   },
   {
     name: "Giftify",
