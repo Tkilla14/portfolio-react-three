@@ -206,7 +206,7 @@ const projects = [
   {
     name: "Ape Island",
     description:
-      "An online multiplayer mobile app, where players compete against eachother in a game similar to king of the hill. Each player submits an admission fee and the final three contrstants each win a prize of money or experience",
+      "An online multiplayer mobile app, where players compete against eachother in a game similar to king of the hill. Each player submits an admission fee and the final three contrstants each win a prize of money or experience. - Built in unity, link is to my github profile -",
     tags: [
       {
         name: "C#",
@@ -221,8 +221,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: ape,
-    source_code_link: "",
+    image: ape
   },
   {
     name: "Giftify",
